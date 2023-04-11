@@ -1,0 +1,343 @@
+
+
+S&P
+SAPITAL Iğ
+McGRAW HILL FINANCIAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BARK, Inc. NYSE:BARK
+Earnings Call
+Thursday, February 9,20239:30 PM GMT
+CALL PARTICIPANTS        2
+PRESENTATION           3
+8
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+Call Participants
+....................................................................................................................................................................
+EXECUTIVES
+
+Matt Meeker
+Co-Founder, CEO & Executive Chairman
+
+Michael K. Mougias Vice President of Investor Relations
+
+Zahir M. Ibrahim
+Chief Financial Officer
+
+ANALYSTS
+
+Corey Michael Grady
+Jefferies LLC, Research Division
+
+Maria Ripps
+Canaccord Genuity Corp., Research Division
+
+Ryan Robert Meyers
+Lake Street Capital Markets, LLC, Research Division
+
+Ygal Arounian
+Citigroup Inc., Research Division
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spglobal.com/marketintelligence                                                 3
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+Presentation
+....................................................................................................................................................................
+Operator
+Good afternoon. Thank you for attending BARK's Third Quarter Fiscal 2023 Earnings Call. My name is Matt and I'll be your moderator for today's call. [Operator Instructions]
+I would now like to past the conference over to our host, Michael Mougias, Vice President of Investor Relations. Michael, please go ahead.
+Michael K. Mougias
+Vice President of Investor Relations
+Good afternoon, everyone, and welcome to BARK's third quarter fiscal year 2023 earnings call. Joining me today are Matt Meeker, Co-Founder and CEO; Zahir Ibrahim, Chief Financial Officer and Howard Yeaton, who served as Interim Chief Financial Officer during the period we are reporting on today.
+Today's conference call is being webcast in its entirety on our website and a replay of the webcast will be made available shortly after the call. Additionally, a press release covering the Company's financial results was issued this afternoon and can be found on our Investor Relations website.
+Before I pass it over to Matt, I would like to remind you of the following information regarding
+forward-looking statements. The statements made on today's call are based on management's current expectations and are subject to risks and uncertainties that could cause actual future results and outcomes to differ. Please refer to our SEC filings for more information on some of the factors that could affect our future results and outcomes.
+Also during today's call, we will discuss certain non-GAAP financial measures. Reconciliations to our non- GAAP financial measures is contained in this afternoon's press release.
+And with that, let me now pass it over to Matt.
+Matt Meeker
+Co-Founder, CEO & Executive Chairman
+Thanks, Mike, and good afternoon, everyone. Our results last quarter illustrate the significant progress we continue to make across each of our strategic initiatives we laid out at the beginning of the year, namely accelerating our path to profitability, making meaningful progress in our food and consumables business and transforming our customer base by acquiring more premium customers.
+Last quarter, we grew our average order value by $2 year-over-year, improved our gross margin by 4 points to 60%, reduced our inventory by $15 million and ended the quarter with $164 million of cash on the balance sheet, essentially unchanged from fiscal Q2. And for the first quarter since going public, we generated positive free cash flow. These are important milestones and a direct result of the actions we took to diversify our product mix, improve our long-term unit economics and meaningfully reduce our cash burn. And while the progress we have made across these initiatives is encouraging, we expect these trends to continue further in the quarters ahead.
+In addition, we announced the cost reduction initiative today to enable more leverage across the business, adding significantly more to our bottom line. I will discuss this initiative more in a moment.
+First, let me highlight some of the key results for the most recent quarter. Total revenue was $134.3 million, $300,000 ahead of our guidance for the quarter. Our direct-to-consumer segment contributed
+$120 million. Within that segment, total revenue from cross selling was $12 million, up 15% compared to last year. And as we know, not all revenue is created equal and we saw the strongest growth in our new categories; dental and food. Our dental product BARK Bright delivered $2.7 million of revenue in the quarter, up 70% compared to last year.
+
+
+spglobal.com/marketintelligence                                                 4
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+
+I'm also excited to announce that we recently expanded our dental catalog with the launch of Bright Durable, which as the name suggest, is targeted at tougher chewers. We also removed the chicken ingredient from this formula, which is one of the more common dog allergies, thereby growing the population of dogs we can serve. And while Bright Durable has only been available for a month, the initial reception has been fantastic. In our first month, we added nearly 6,000 new subscribers for this product. This is a great example of how we are able to leverage customer data to inform product development and expand our portfolio with products that we are confident will resonate with customers.
+Our food product is also doing very well and accelerating across all the key operating metrics we use to evaluate and manage the business. Since adding more breeds, puppy formulas and other variations last fall, the growth is picking up even faster. With each passing month, we are seeing notable improvements in customer engagement, conversion rates and the number of orders we are fulfilling. Over the next 12 months, we will continue to add more breeds, which will expand our addressable market and help us engage in even greater subset of our customer base. And virtually all of our progress to date has been achieved by reaching out to current and former BARK customers or through word of mouth.
+Food is a huge market to serve, and we're thrilled with how well this breed strategy is resonating with our over 2 million BARK customers. The related and large consumables market we serve, but haven't discussed much this year, is treat. And BARK does more than just serve this market with roughly 1/3 of our revenue coming from treats. We are a top treat seller in the U.S. today, and we achieved this without selling a single treat in retail or via our partners, which are channels we expect to tap into over the next year.
+Speaking of retail, let's turn to our commerce segment. We delivered $14 million of commerce revenue in the quarter, roughly 11% of total revenue. This is a segment I'm very bullish on and see a significant opportunity to grow this business long term. Today we are partnering with virtually every major retailer in the U.S. Our footprint spans 40,000-plus stores across the country, which enables us to reach new demographics and introduce millions of prospective customers to BARK.
+That said, today, we are primarily selling toys through our retail network. However, there is an exciting opportunity for us to broaden our offering and grow our commerce business in a substantial way by introducing our full product line to retailers, including toys, treats, toppers, dental and food.
+Moving on, our total gross margin improved by 400 basis points year-over-year to 59.7% and our direct- to-consumer gross margin came in at 61.8%. We have made significant progress this year, getting
+our margin back to fiscal 2021 levels. And as I've discussed for the past year, this was essential to the foundation on which we can grow now more profitably. We also have great visibility on our margin drivers, and we expect ongoing gains for several more quarters due to the following developments.
+First, we renegotiated more favorable contracts with our manufacturing partners. Rather than splitting our business across a dozen different vendors, we streamlined the number of partners we work with, which enabled us to negotiate more favorable terms. We also successfully renegotiated better terms with our freight partners as the spot rate for containers has declined significantly from their pandemic highs. Looking below the gross profit line, we recently signed a long-term agreement with one of our strategic shipping partners, which will reduce transportation costs and limit surcharges.
+Collectively, these efforts have improved our unit economics, lifted our margins in a meaningful way, and we look forward to enjoying the benefits of these new arrangements in the quarters and years ahead.
+If you recall, in discussing our path to profitability 1 year ago, I mentioned from fiscal 2021 to fiscal 2022, we lost 4 points of gross margin, another 6 points on shipping and fulfillment and added 6 points of revenue on the G&A line.
+As I just mentioned, we've made great gains this year in those first 2 areas and will gain more in future periods. The final area for improvement is on the G&A line. And today we announced an initiative that will save us around $12 million annually, starting this quarter, while also streamlining our work and helping us get more done faster. This is all great progress in a short period of time, and I'm very proud of our team for making it happen this year.
+
+spglobal.com/marketintelligence                                                 5
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+
+Finally, that all rolled to an adjusted EBITDA loss for the quarter of $12.8 million, slightly ahead of our guidance and a 30% improvement compared to the third quarter of fiscal 2022. For the quarter ahead, we are guiding to a $3 million adjusted EBITDA loss. And given all the actions we've taken over the past year, I'm more confident than ever that we are on the doorstep of sustainable and growing profitability.
+Furthermore, we are also beginning to convert our inventory to free cash flow. As I mentioned on our last earnings call, we typically order products 8 to 10 months in advance. So our ability to reduce our inventory levels in the short-term was limited. With that said, we have reached a point where we can expect to see more consistent inventory conversion. We demonstrated this in the fiscal third quarter, and we estimate that we can make similar progress and inventory reduction in the year ahead.
+Now let me touch on the cost reduction initiative that we announced this afternoon. The pandemic served as a significant and, in many respects, lasting tailwind to the pet space, and we benefited tremendously as our top line grew at a dramatic pace. In an effort to meet growing demand, we quickly scale our infrastructure, headcount and other resources. In hindsight, we scaled our cost structure too quickly, which led to operational inefficiencies on unfortunately, redundancies.
+This reality became even more evident as the broader macro backdrop became increasingly volatile. In light of this, we conducted a comprehensive review of the business with the goal of streamlining our cost structure, improving our operations and further accelerating our path to profitability. As a result, we made the decision to reduce our headcount by 12% and eliminate certain contracts with third-party vendors and consultants. Decisions like this are never easy because they impact people, our colleagues and friends who have worked hard to support BARK and its customers.
+To all the employees that were affected, I'm truly grateful for your contributions and dedication. In reality, however, we believe that this is the right direction for the business, and it better aligns our cost structure with current economic environment and allows us to better focus on our highest priorities.
+Let me now turn to guidance for the remainder of the year. While we saw a strong revenue acceleration in our food and dental product lines last quarter, we did see some softness in our toy product line as new additions came in later. For our fiscal fourth quarter, we expect revenue to be approximately $121 million and full year revenue to come in at roughly $530 million. Our full year guidance implies year-over-year growth of approximately 5% as compared to our previous guidance of roughly 10%.
+In our view, this is a reflection of the broader macro backdrop as many consumers remain cautious and are currently favoring less discretionary spend. We believe that this is in part why our food and dental categories are accelerating, which is healthy for our business in the long run. However, it does taper our near-term revenue expectations given the relatively small base of our food and dental categories today.
+Notwithstanding the lower revenue guidance, we are maintaining our full year adjusted EBITDA guidance of negative $31 million, which is where our focus has been and continues to be. For the fiscal fourth quarter, we currently expect an adjusted EBITDA loss of roughly $3 million, an 87% improvement compared to the fourth quarter of fiscal 2022.
+Overall, the improvements we have realized across cost of goods sold and G&A are significant, and our ability to maintain our EBITDA guidance is a reflection of the significant progress we've made in improving our long-term profitability profile. This progress also highlights our long-term LTV to CAC opportunity.
+The growing AOV on top of a healthier margin profile will have benefits to our LTV to CAC ratio. This coupled with a leaner G&A structure, provides us with a lot of flexibility to increase our investment in marketing if we are seeing stronger returns, particularly if we continue to cross-sell customers into food as successfully as we have recently. To summarize, it has been a successful year back in CAC, and we are executing the plan that we laid out a year ago.
+We've consistently improved our customer quality as reflected in our increased average order value. We've improved our margin profile in a material way. We are beginning to convert our inventory to cash, and we were free cash flow positive for the first quarter since going public. Looking ahead, we expect to continue to deliver healthy year-over-year improvements in adjusted EBITDA and free cash flow as a result of the
+
+spglobal.com/marketintelligence                                                 6
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+
+important actions we took over the course of fiscal 2023, which are beginning to translate to our financials in a more meaningful way.
+If the market was betting on us running out of cash because we were a stack and hopefully, our steady progress in performance this quarter should prove that thesis was wrong. I continue to believe that our best days are ahead of us. And with $164 million of cash on the balance sheet, we have a lot of exciting opportunities ahead.
+And before I turn it over to Zahir to walk through our financials in more detail, I'd like to thank Howard for his thoughtful leadership and contributions over the past year. He's been a valuable partner and help me execute many of the improvements we've made to the business during his time here. I'd also like to welcome Zahir to his first earnings call at BARK. Zahir brings nearly 3 decades of senior financial leadership experience at public and private companies and a proven track record, scaling high-growth direct-to-consumer brands, and we are thrilled to have him on board.
+With that, let me now turn it over to Zahir.
+Zahir M. Ibrahim
+Chief Financial Officer
+Thanks, Matt, and good afternoon, everyone. It's a pleasure to participate in my first earnings call at BARK. Before I dive into our strong Q3 results, I thought it would be helpful to share what attracted me to BARK, some of my early observations and my initial areas of focus.
+First off, I love the pet space. As an avid dog fan and the parent of a 10-year-old golden named Oscar, I fully appreciate how much joy a dog can bring into our lives. So from the outset, our mission to make dog lives happier totally resonated with me.
+Second, I believe that BARK offers a really unique value proposition as a brand for dogs. We are one of the only companies in the space with proprietary branded products spanning toys, treats, food and
+dental. And finally, Matt and the team have built an impressive business with millions of loyal customers. A business with a valuable and growing data set and with early success expanding into new high TAM categories, which are all resonating well with customers. We have great critical mass and a major runway for growth ahead of us.
+I saw a lot of parallels between BARK and where client was when I joined them back in 2015. During my 6-plus years there, I help design and execute our long-term strategy, building capabilities that enabled our revenue to scale 2x while we optimize our cost structure. In the near term, my top priority is helping Matt and the team build an infrastructure that enables BARK to scale profitably. A lot of important work has already been done. However, we still have work to do. And I look forward to partnering with Matt and the team to help improve our operations even further.
+With that, let me take you through our financial results in more detail. And while I was not here for the quarter we are reporting on today, the drivers are fairly straightforward, and I believe our results largely speak for themselves. Total revenue was $134.3 million, roughly $300,000 ahead of our guidance for the quarter. Compared to the same period last year, our total revenue was down slightly, which is a function of the pull forward of commerce revenue that we experienced in fiscal Q2 as several retail partners ordered their holiday product ahead of schedule.
+If you recall, this effectively swapped our commerce revenue between fiscal Q2 and Q3 this year, making the year-over-year comps in this segment for this quarter, less meaningful. For our B2C segment, revenue was $120.1 million in the quarter, up roughly 2% year-over-year. The driving force behind the increase was 3.6 million subscription shipments at an average order value of $33.10, $2 more than the year ago period and nearly $1 more versus the previous quarter. Our bright product line has been performing exceptionally well, delivering $2.7 million of revenue in the quarter and roughly $8 million through the first 9 months of fiscal 2023, up over 100% on the corresponding period for 2022.
+Furthermore, our new food business, which launched in August is growing at a strong pace, and that's without us investing in marketing. We also achieved healthy margin expansion in B2C for the third quarter
+spglobal.com/marketintelligence                                                 7
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+
+
+in a row. B2C gross margin was 61.8%, up 230 basis points compared to Q3 last year and up 160 basis points versus Q1 this year. These improvements were driven by strong growth in our average order value and improved ongoing pricing with our manufacturing and freight partners.
+Moving on to our commerce business. Revenue came in at $14.2 million, down from $22.7 million in the same period last year. As mentioned earlier, this was largely timing related. The commerce gross margin was 42%, up from 36% in the year ago period as a result of our holiday promotions hitting fiscal Q2 this year.
+Turning to operating expenses. Our total G&A expense was $80.2 million, up roughly $2 million compared to the same period last year. The increase was primarily driven by $2.2 million of impairment costs related to our previous New York head office. As Matt discussed, we announced a cost reduction exercise this afternoon in an effort to better align our cost structure with the current macro environment and further improve our operational efficiency. To quantify the magnitude of this exercise, we expect to achieve approximately $12 million of annual cost savings starting this quarter with around $10 million to $11 million flowing into fiscal year 2024.
+This initiative, coupled with the improvements we have already realized, will significantly improve our profitability profile. These are always difficult decisions to make. However, we believe this initiative better aligns our cost base with our scale. We'll make our organization more effective and better enable us to capitalize on the tremendous opportunity ahead.
+Moving to advertising and marketing. Expenses were $21.7 million, down approximately $5 million compared to last year. We will continue to manage our marketing budget in a disciplined fashion to ensure we are continuing to improve the returns on our investment. Nevertheless, we are very happy with the quality of customers that we have been acquiring throughout fiscal 2023. And with growing average order value and a healthier cost structure, we increasingly have the flexibility to lean into our marketing effort
+if we continue to see our lifetime value increase. That said, sustainable profitability remains the foremost priority.
+And lastly, adjusted EBITDA was negative $12.8 million, $200,000 ahead of our guidance for the quarter and a 30% improvement compared to the negative $18.3 million we generated last year. Overall, our results last quarter underscore our significant progress in improving unit economics and driving towards sustainable profitability.
+Turning to the balance sheet. We ended the period with $164 million of cash, broadly in line with the prior quarter. Notably, we reduced our inventory balance by over $15 million in the quarter, which is a step change improvement. And lastly, we achieved positive free cash flow in the quarter for the first time since going public, which is a major milestone. And looking ahead, we anticipate positive free cash flow tailwinds in 2 areas. The first is balance sheet driven as we continue to focus on reducing our inventory levels. And the second is P&L driven as we expect to see an improved margin profile, coupled with the cost reduction exercise we implemented today, all of which should boost our profitability and free cash flow generation.
+Overall, we had a very strong quarter. We continue to add higher value customers. Our gross margin continues to rise. We're improving our operating expense profile, and we're beginning to generate positive free cash flow. And while the near-term macro environment remains volatile, we have a tremendous runway ahead, and I look forward to building on our positive traction.
+With that, I will turn the call over to the operator for Q&A.
+
+
+
+
+
+
+
+
+
+
+spglobal.com/marketintelligence                                                 8
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+Question and Answer
+....................................................................................................................................................................
+Operator
+[Operator Instructions] The first question is from the line of Maria Ripps with Canaccord.
+Maria Ripps
+Canaccord Genuity Corp., Research Division
+First, so it looks like you reported very healthy Q3, but it sounds like Q4 is trending much softer than expected. Can you maybe just talk about sort of at what point did you start seeing deterioration in discretionary spend? And I guess, what are your thoughts around reengaging those consumers as you move throughout fiscal 2024?
+Matt Meeker
+Co-Founder, CEO & Executive Chairman
+Yes. Thanks, Maria. We did. And as you know, fiscal Q3 is typically our biggest quarter from a net adds perspective and from an AOV growth standpoint. And it was difficult to expect in this environment how the consumer is going to respond. It's cut pretty much across everything in a proportional way the way you would expect. So if you look at commerce, there's certainly the headwinds that we're feeling where our retail partners have their inventory built up, and we saw some of that pull forward last quarter, and they were just built up. So there's a lot to move through there, and I'd expect that continues through at least this quarter that we're in here and maybe the next.
+And then on the direct-to-consumer side, there are a few different stories, but there's the net adds overall came in lighter than we would have hoped. Most of that happened in our biggest business, which is BarkBox. And then as you move to Super Chewer, better performance and then really, really strong performance in food and dental, but obviously growing on a smaller base. So what we're seeing there is that really healthy rotation we've been after for the better part of a year or longer rotating from toys into food and dental.
+Now the nice thing is, especially in food, we're picking up all that momentum from the toy customer base. And it's going very, very well, which suggests we're probably in the past quarter, and we've probably been a bit too conservative in what we're willing to spend to acquire a customer. Their value is growing more and more as the quarters go on. You see that in the AOV. And then the margin is increasing, the retention is hanging in there or even a little bit better. So I think we just needed some time to adjust to this dynamic in food and get some confidence in it. And as we push through next year, I think you'll see more and more of that acceleration.
+Maria Ripps
+Canaccord Genuity Corp., Research Division
+That's very helpful, Matt. And then it seems like your Eats business is seeing strong momentum. Sort of how are you thinking about investments in the product over the next couple of quarters, especially given your cost savings initiatives here? And then are there any sort of specific milestones like certain level of scale or a certain number of markets that you have in mind that sort of need to be achieved before you start marketing Eats externally to people who are not already existing subscribers?
+Matt Meeker
+Co-Founder, CEO & Executive Chairman
+Yes. In terms of the investment in the team, there's a very good narrowly focused tight team on it that's doing a fantastic job. So we've got the right group of people around it and they're expanding it nicely. So we don't need -- I'll say we don't need big G&A investments in it to make it go faster. That's happening all on its own. The question about marketing is a good one because as I said, most of this momentum has been driven off of cross-selling into the toy customer base, and there's a whole lot more we can still do there and will do there.
+spglobal.com/marketintelligence                                                 9
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+
+
+But to your point, we should be starting to spend some external marketing dollars to acquire direct food customers, but even more so now that we have this internal engine running where we can take a toy customer and more effectively turn them into a food or a dental customer, we should be increasing our cost of acquisition on that side as well. So, the marketing spend will start to move up to reflect that higher LTV and the strength that we're seeing in the cross-selling.
+Operator
+The next question is from the line of Corey Grady with Jefferies.
+Corey Michael Grady
+Jefferies LLC, Research Division
+I want to follow-up on cash generation. So you made a lot of progress on converting inventories this quarter, and it sounds like there's still more room there. Maybe you can talk about how much more room is there left? How much more inventories are they left to work down and what you're targeting is kind of like a normal level?
+Zahir M. Ibrahim
+Chief Financial Officer
+Corey, how are you doing? This is Zahir. In terms of just maybe a bit of context around supply chain. So we have a sizable amount of lead time in supply chain from ordering product to it landing in our warehouse and ultimately flowing through to customers. So typically, that's anywhere between 8 to 10
+months. So that's really important context as you think about how much reduction or how much you can influence inventory change in the near term. So, as we think about what happened in Q3 that $15 million reduction was as a result of us making decisions back in March, April from a purchaser's perspective where we decided we wanted to take a step-change reduction in our inventory.
+And so you're seeing that now flow through in our December financials. And as I said, it was a sizable reduction. And what it does is it rebases as back down from the $160 level. We're now around $145 as we enter 2024 and calendar 2024, that is. And so we use that as our new baseline as we plan for future reductions. I'd say in the near term, inventory is going to move up or down depending on consumer demand relative to purchases that we place with suppliers some months ago. But looking forward for
+fiscal 2024, I'd expect inventory levels to come down by a similar sort of amount that we saw in Q3 with a greater impact likely in the second half of 2024 due to the supply chain lead times. Does that help?
+Corey Michael Grady
+Jefferies LLC, Research Division
+Yes, that's really helpful. And then just on profitability, so kind of following up on cash generation. So you reported a pretty solid gross margin expansion this quarter and then obviously, the 12% workforce
+reduction. You can could talk about any updates on timing on getting to adjusted EBITDA profitability and what the remaining steps are to get there?
+Matt Meeker
+Co-Founder, CEO & Executive Chairman
+Yes. I think you're seeing it. And as we're guiding to a loss of $3 million in this current quarter. But as I said in the call, the building blocks are there, and you're pointing it out, the gross margin leap forward to roughly 60%. The best we've posted as a public company to date, and we still feel there's a lot of room for growth in that or we know there as we see it through a lot of those -- a lot of those contracts that we've put in place with our vendors. And as Zahir said, we're just working through the inventory that would be on the old contracts.
+So we've got some visibility to ongoing improvement there in addition to the AOV improvement. That makes the gross margin go up, improvement on the shipping and fulfillment line and as you mentioned the cost reduction. It's a long way of saying we're right there, and we're guiding to being right there.
+When it comes to the when, we're getting our arms wrapped around the full year plan for fiscal '24, and
+
+spglobal.com/marketintelligence                                                10
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+
+Zahir has been on board with us now for 5 weeks. So we're getting our arms around it, and I think we'll have visibility to that very soon.
+Operator
+The next question is from the line of Ryan Meyers with Lake Street Capital Markets.
+Ryan Robert Meyers
+Lake Street Capital Markets, LLC, Research Division
+First one for me. Just wondering if you can unpack the AOVs during the quarter a little bit more. And then kind of maybe what percentage of revenue came from cross-selling?
+Matt Meeker
+Co-Founder, CEO & Executive Chairman
+Yes. This quarter, $15 million of revenue came from cross-selling out of the total $134 million or $120 million of direct-to-consumer. So, well over 10% of consolidated and certainly over 10% on the direct-to- consumer side. So that continues to be a core strength of ours. And as I mentioned, I've talked about it for a lot in the past year that we have become very good at in our past couple of years was addressing
+a toy customer and selling them more toys. We became really great at that. What's changed in the past quarter or 2, really since we updated the format and went to the breed based for amount of food is we really unlock how to take a toy customer and turn them into a food customer.
+And that's been the unlock we've been looking for. So, that's the game changer for us and what we've been going for. In this past quarter, if I go back to the question, Corey just asked, we've done a couple of things. I mean, we've certainly expanded the gross margin overall in that 60% neighborhood. We've
+improved our shipping and fulfillment, percent of revenue that we spend there. We have our cost reduction exercise in before. And before that, we turned in a free cash flow positive quarter and then you take all that forward. So one priority was to get profitable another was to have real momentum in food. We've got that, too. So we're pretty happy with where all that is.
+Ryan Robert Meyers
+Lake Street Capital Markets, LLC, Research Division
+And then kind of the integration of the one BARK brand, how is that progressing? And do you guys have any sort of time line as to when that might be complete?
+Matt Meeker
+Co-Founder, CEO & Executive Chairman
+Yes. Not a specific time line, but if you -- you will see it if not -- we don't feel the best way to bring this out as to work on it under the covers for a long period of time and then just say be a whole new platform. And so we're bringing this out day by day, little by little and learning how to sell in new ways and learning how to introduce new products in new ways. So if you look at the food platform right now, food.bark.co, what you have there is we're selling the core kibble and the food on that breed-based approach. But we've introduced new products there as well like food toppers, so still in the food family, treats. And soon, you'll see our dental products start to appear there.
+And now we're starting to move more and more into having all the products on that platform. And the platform is really where we're getting the leverage because it's far more flexible, much easier for us to optimize and improve on and we're seeing those day-to-day gains in our conversion rate and our cross- selling ability. And so we're taking it one step at a time, moving those products over, but it's going rapidly. And then we'll have the -- I'd say, the window dressing of there's going to be a date where we change the URL from food.bark.co to bark.co and create some new navigation. But you'll see in the coming weeks, changes start to be made there, especially new products being introduced.
+Operator
+The final question is from the line of Ygal Arounian with Citigroup.
+
+spglobal.com/marketintelligence                                                11
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+
+
+Ygal Arounian
+Citigroup Inc., Research Division
+Apologies, I just has been jumping around a few calls, but I just want to kind of come back to the demand environment. I think some of the credit card data we've been following in surveys that we've seen suggest that the pet category remains resilient in this kind of environment. And obviously there's a little bit of
+a stepdown here. Are you seeing something different? Or do you think this is more broad-based is the subscription component of the business? And I know people can turn on and off. Is that a factor? Just how should we think about that? And how do we get back to a rebound? Is it just the macro environment
+improving? Are there other things you can kind of put in place to drive some improvements in the demand environment?
+And then second, very related. Your LTV to CAC is still the strongest improving as your AOV goes up and your cross-selling on these products. But how do you think about marketing spend in the softer environment? Do you slow down marketing? Are you a little bit more cautious on it? Do you step into
+marketing to keep demand higher? How do you think about that LTV to CAC in that type of environment?
+Matt Meeker
+Co-Founder, CEO & Executive Chairman
+Yes. Thanks. So really good questions. And I'll start with the first on the demand environment. It's again not all revenue is created equal. And so where we're seeing that softness and acceleration, I think it's similar to what we're hearing from others in terms of what they're seeing. So the more discretionary product and for us, the most discretionary would be a subscription BarkBox. And those are the ones that are facing the headwinds. Those that are holding up and very resilient and even surging our less
+discretionary food and health products like our dental product, and we're seeing that, too. We're seeing it just really, really take off.
+And for us, that's really healthy. The great thing about it is -- the toy and treat businesses offer to us really strong unit economics. They bring in good cash flow, and they also bring in a relatively inexpensive way to acquire customers for the food and dental categories. A toy customer costs a whole lot less out in the market than a food customer. So I think what you're seeing in the demand environment is the same as us. We're just growing from a smaller base on those other categories.
+And then to your -- and that dovetails into your LTV to CAC question and the marketing spend, it's exactly that the strength we're seeing in those categories and the market opportunity that's available there, we probably have been too conservative on the cost of acquisition side and everything is just starting to come together. The cross-selling into that, the big pickup quarter-over-quarter in the gross margin, the retention holding up, the AOV gains, all that came together this quarter, and we are probably too conservative about the cost of acquisition. So in the pursuit of positive EBITDA, it's not going to be a case of us reining in the marketing spend. It will probably go the other way where we push on it harder and try to grow it faster because we feel so confident about taking those toy customers and making them food customers.
+Operator
+Thank you for your question. That concludes the conference call. Thank you for your participation. You may now disconnect your lines.
+
+
+
+
+
+
+
+
+
+
+
+
+spglobal.com/marketintelligence                                                12
+
+BARK, INC. FQ3 2023 EARNINGS CALL FEB 09, 2023
+
+
+
+The information in the transcripts ("Content") are provided for internal business purposes and should not be used to assemble or create a database. The Content is based on collection and policies governing audio to text conversion for readable "Transcript" content and all accompanying derived products that is proprietary to Capital IQ and its Third Party Content Providers.
+The provision of the Content is without any obligation on the part of Capital IQ, Inc. or its third party content providers to review such or any liability or responsibility arising out of your use thereof. Capital IQ does not guarantee or make any representation or warranty, either express or implied, as to the accuracy, validity, timeliness, completeness or continued availability of any Content and shall not be liable for any errors, delays, or actions taken in reliance on information. The Content is not intended to provide tax, legal, insurance or investment advice, and nothing in the Content should be construed as an offer to sell, a solicitation of an offer
+to buy, or a recommendation for any security by Capital IQ or any third party. In addition, the Content speaks only as of the date issued and is based on conference calls that may contain projections of other forward-looking statements. You should not rely on the Content as expressing Capital IQ’s opinion or as representing current information. Capital IQ has not undertaken, and do not undertake any duty to update the Content or otherwise advise you of changes in the Content.
+THE CONTENT IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND. USE OF THE CONTENT IS AT THE USERS OWN RISK. IN NO EVENT SHALL CAPITAL IQ BE LIABLE FOR ANY DECISION MADE OR ACTION OR INACTION TAKEN IN RELIANCE ON ANY CONTENT, INCLUDING THIRD-PARTY CONTENT. CAPITAL IQ FURTHER EXPLICITLY DISCLAIMS, ANY WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. CAPITAL IQ, SUPPLIERS OF THIRD-PARTY CONTENT AND ANY OTHER THIRD PARTY WORKING WITH CAPITAL IQ SHALL NOT BE RESPONSIBLE OR LIABLE, DIRECTLY OR INDIRECTLY, FOR ANY DAMAGES OR LOSS (INCLUDING DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL AND ANY AND ALL OTHER FORMS OF DAMAGES OR LOSSES REGARDLESS OF THE FORM OF THE ACTION OR THE BASIS OF THE CLAIM) CAUSED OR ALLEGED TO BE CAUSED IN CONNECTION WITH YOUR USE OF THE CONTENT WHETHER OR NOT FORESEEABLE, EVEN IF CAPITAL IQ OR ANY OF THE SUPPLIERS OF THIRD-PARTY CONTENT OR OTHER THIRD PARTIES WORKING WITH CAPITAL IQ IN CONNECTION WITH THE CONTENT HAS BEEN ADVISED OF THE POSSIBILITY OR LIKELIHOOD OF SUCH DAMAGES.
+© 2023 Capital IQ, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spglobal.com/marketintelligence                                                13
